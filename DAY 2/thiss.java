@@ -20,5 +20,6 @@ public class thiss
     public static void main(String args[])
     {
         football s1 = new football("cristiano", "portugal", 1);
+        s1.football1();
     }
 }
