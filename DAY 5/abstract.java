@@ -14,7 +14,8 @@ abstract class vehicle
     abstract void speed();
 }
 
-class honda extends vehicle{
+class honda extends vehicle
+{
     void speed()
     {
         System.out.println("fires out");
@@ -24,7 +25,9 @@ class honda extends vehicle{
 
 
 
-public class absta {
+
+public class abstract
+{
     public static void main(String[] args) {
         vehicle s1 = new honda();
         //s1.petrol();
