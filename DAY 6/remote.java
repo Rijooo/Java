@@ -1,6 +1,17 @@
+class charrr
+{
+    charrr()
+    {
+        System.out.println("checking the character");
+    }
+}
+
+
+
 public class remote {
     public static void main(String[] args)
     {
-        fffffhhhhhhbbbdhhhh 
+        charrr s1 = new charrr();
+        
     }
 }

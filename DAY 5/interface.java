@@ -19,7 +19,7 @@ class re implements vehiclee
 
 
 
-public class inter
+public class interface
 {
     public static void main(String[] args){
         vehiclee s1 =new re();
