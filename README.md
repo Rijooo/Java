@@ -4,3 +4,8 @@ String can be created using literals(""), and new keyword
 
 
 // == which is used to compare the reference of the string rather than the value  
+
+
+//Threads
+
+Whenever a thread is created is will always be in the
