@@ -6,7 +6,7 @@ class foot extends Thread
     }
 }
 
-public class Main
+public class threadextends
 {
     public static void main(String[] args) 
     {

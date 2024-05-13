@@ -6,7 +6,7 @@ class foot implements Runnable
     }
 }
 
-public class Main
+public class threadsimplements
 {
     public static void main(String[] args) 
     {
