@@ -8,4 +8,4 @@ String can be created using literals(""), and new keyword
 
 //Threads
 
-Whenever a thread is created is will always be in the
+Whenever a thread is created is will always be in the new state
