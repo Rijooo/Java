@@ -1,4 +1,3 @@
-package DAY4;
 
 public class dynamic {
     public static void main(String[] args)

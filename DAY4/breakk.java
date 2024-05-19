@@ -1,4 +1,3 @@
-package DAY4;
 
 
 class sample{
